@@ -143,6 +143,11 @@ nav .menu-btn i {
     transform: translateY(100%);
 }
 
+.hero-section .hero-heading .i,.j{
+    padding-right: 2vw;
+}
+
+
 
 
 .hero-section .hero-heading:nth-child(1) {
